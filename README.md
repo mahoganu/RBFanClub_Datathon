@@ -1,5 +1,5 @@
 # RichB's Fan Club's Bill.com Submission
-Robbie Kenwortthy, Alex Holzach, Timofey Efimov, Mahmoud Al-Madi
+Robbie Kenworthy, Alex Holzach, Timofey Efimov, Mahmoud Al-Madi
 
 Link to Google Colab for larger files that couldn't be uploaded: https://drive.google.com/drive/folders/16KLaNwlE7BfZfNMVMtA0a0MJ5YQ0vAQK?usp=sharing
 
